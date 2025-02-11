@@ -1,4 +1,4 @@
-Certainly! Here’s a 30-day curriculum with HTML, CSS, and JavaScript along with links to resources, and daily tasks that involve submitting work on GitHub via pull requests (PRs).
+## Mentor Innovation Hub
 
 ---
 
